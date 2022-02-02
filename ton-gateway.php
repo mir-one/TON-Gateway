@@ -132,7 +132,7 @@ function ton_gateway_class() {
 // }
  
 /*
- * Формы ввода данных и создания токена для них
+ * Формы ввода данных и создание токена для них
  */
     public function payment_scripts() {
  
@@ -171,7 +171,7 @@ function ton_gateway_class() {
  
 	 	}
  
-		/*
+/*
  * Валидация полей
  */
 // public function validate_fields() {
@@ -179,7 +179,7 @@ function ton_gateway_class() {
 // ...
  
 // }
- 
+
 /*
 * Обрабаботка платёжа
  */
@@ -239,7 +239,7 @@ function ton_gateway_class() {
 }
  
 /*
- * Хук, к которому будет обращаться банк
+ * Хук, к которому будет обращаться кошелек TON
  */
 	public function ton_webhook() {
  
