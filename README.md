@@ -5,5 +5,7 @@
 
 
 💸Donation
+<br>
 ![qr](qr.png)
+<br>
 [EQBondcvD2_aOFADXSWJHs4ZazQDuEl9_wNvGGPxI8hGuOFU](ton://transfer/EQBondcvD2_aOFADXSWJHs4ZazQDuEl9_wNvGGPxI8hGuOFU)
