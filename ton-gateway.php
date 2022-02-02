@@ -8,7 +8,7 @@
  * Version: 0.0.1
  *
 /*
- * Фильтр-хук зарегистрации PHP-класса в качестве платёжного шлюза WooCommerce
+ * Фильтр-хук регистрации PHP-класса в качестве платёжного шлюза WooCommerce
  */
 add_filter( 'woocommerce_payment_gateways', 'ton_register_gateway_class' );
  
