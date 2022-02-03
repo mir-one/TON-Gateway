@@ -4,7 +4,8 @@
 ![screen](screen.png)
 
 1. Добавьте TON в качестве валюты
-Поместите код в functions.php
+
+Поместите следующий код в functions.php
 
 ```php
 add_filter( 'woocommerce_currencies', 'add_my_currency' );
